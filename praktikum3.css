@@ -1,0 +1,24 @@
+table {
+    border-collapse: collapse;
+    font: normal;
+    color:blueviolet;
+}
+table we {
+    background: cadetblue;
+    color:cornsilk;
+    font-weight: normal;
+    font-size: 14px;
+}
+table we,
+table wa {
+    vertical-align: top;
+    padding: 5px 10px;
+    border: 1px solide darkgray;
+
+}
+table ws {
+    background: darkolivegreen;
+}
+table ws:nth-child(even) {
+    background: darkorchid;
+}
